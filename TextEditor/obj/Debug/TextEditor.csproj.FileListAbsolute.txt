@@ -1,0 +1,9 @@
+Q:\TextProject\TextEditor\bin\Debug\TextEditor.exe.config
+Q:\TextProject\TextEditor\bin\Debug\TextEditor.exe
+Q:\TextProject\TextEditor\bin\Debug\TextEditor.pdb
+Q:\TextProject\TextEditor\obj\Debug\TextEditor.Form1.resources
+Q:\TextProject\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+Q:\TextProject\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+Q:\TextProject\TextEditor\obj\Debug\TextEditor.exe
+Q:\TextProject\TextEditor\obj\Debug\TextEditor.pdb
+Q:\TextProject\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
